@@ -1,0 +1,7 @@
+2a60927148abd1d33b818b535e306557
+::res://::1685355716
+Boid.gd::GDScript::-1::1685135677::0::1::::Boid<>Polygon2D<>::
+Boids.gd::GDScript::-1::1685135844::0::1::::<>Node2D<>::
+default_env.tres::Environment::5172812106018124468::1685135844::0::1::::<><>::
+icon.png::CompressedTexture2D::4639298121402361334::1685102235::1685103803::1::::<><>::
+Main.tscn::PackedScene::6018798886080579084::1685135844::0::1::::<><>::res://Boids.gd
